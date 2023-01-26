@@ -6,5 +6,5 @@
 --!>
  <ul>
     <li> I'm a computer science student. </li>
-    <li> Trying to learn new languages and new programming strategies. </li>
+    <li> Trying to learn new languages and programming strategies. </li>
  </ul>
