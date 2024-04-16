@@ -21,25 +21,4 @@
 </a>
 </div>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Magliaa/github-readme-stats"><img alt="Rizsyad Github Stats" src="https://github-readme-stats.vercel.app/api?username=Magliaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Magliaa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Magliaa" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>Github Tropy Stats</b></summary>
-  <br/>
-   <a href="https://github.com/Magliaa"> <img src="https://github-profile-trophy.vercel.app/?username=Magliaa&theme=algolia&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Magliaa :: Tropy Stats" /></a>
-  <br/>
-</details>
 
